@@ -13,6 +13,7 @@ h3 {
 }
 
 img {
+  height: 200px;
   box-shadow: 5px 5px 5px grey;
 }
 .column {
@@ -40,7 +41,7 @@ img {
 @media only screen and (min-width: 1200px) {
 }
 
-.abc{
-  padding:0px;
-  border:none;
+.abc {
+  padding: 0px;
+  border: none;
 }
