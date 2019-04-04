@@ -1,6 +1,10 @@
 /* Index Page */
 
 h5,
+.pointer {
+  cursor: pointer;
+}
+
 h3 {
   font-family: 'Abel', sans-serif;
 }
