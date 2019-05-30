@@ -1,5 +1,11 @@
 /* Index Page */
 
+.abc {
+  padding: 0px;
+  border: none;
+}
+
+
 h5,
 .pointer {
   cursor: pointer;
@@ -43,9 +49,4 @@ img {
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-}
-
-.abc {
-  padding: 0px;
-  border: none;
 }
